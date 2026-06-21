@@ -10,8 +10,6 @@ import sys
 import json
 import time
 
-PROJECT_DIR = "/home/z/my-project/download/deep_learning_project_ismail"
-sys.path.insert(0, PROJECT_DIR)
 
 from utils.config import set_seed, DEVICE, RESULTS_DIR, PLOTS_DIR
 
