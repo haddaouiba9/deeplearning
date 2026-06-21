@@ -1,0 +1,35 @@
+{
+  "accuracy": 0.9722222222222222,
+  "f1_macro": 0.9751724137931035,
+  "precision_macro": 0.9743589743589745,
+  "recall_macro": 0.9777777777777779,
+  "confusion_matrix": [
+    [
+      12,
+      0,
+      0
+    ],
+    [
+      1,
+      14,
+      0
+    ],
+    [
+      0,
+      0,
+      9
+    ]
+  ],
+  "auc_ovr": 0.9989417989417989,
+  "test_loss": 0.5483661890029907,
+  "total_params": 3267,
+  "n_classes": 3,
+  "class_names": [
+    "class_0",
+    "class_1",
+    "class_2"
+  ],
+  "model": "MLP",
+  "best_val_f1": 1.0,
+  "best_epoch": 5
+}

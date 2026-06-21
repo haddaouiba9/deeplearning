@@ -1,0 +1,45 @@
+{
+  "accuracy": 0.7192857142857143,
+  "f1_macro": 0.7155263638942806,
+  "precision_macro": 0.7162745882218289,
+  "recall_macro": 0.7186566547842133,
+  "confusion_matrix": [
+    [
+      240,
+      28,
+      45,
+      35
+    ],
+    [
+      45,
+      294,
+      28,
+      0
+    ],
+    [
+      51,
+      51,
+      191,
+      53
+    ],
+    [
+      35,
+      0,
+      22,
+      282
+    ]
+  ],
+  "auc_ovr": 0.9096217529312587,
+  "test_loss": 0.6830703183582851,
+  "total_params": 41316,
+  "n_classes": 4,
+  "class_names": [
+    "Printemps",
+    "\u00c9t\u00e9",
+    "Automne",
+    "Hiver"
+  ],
+  "model": "CNN_LSTM",
+  "best_val_f1": 0.7293971273355013,
+  "best_epoch": 6
+}
