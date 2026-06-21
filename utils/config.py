@@ -1,6 +1,3 @@
-"""
-Configuration globale - Projet Deep Learning (Ismail Haddaoui)
-Encadré par Mme. Zineb Hdila - 4IAD G3
 
 Datasets utilisés (TOUS RÉELS) :
   - MLP  → Wine (sklearn, 178 samples, 13 features, 3 classes)
@@ -14,7 +11,7 @@ import numpy as np
 import torch
 
 # === Dossiers du projet ===
-PROJECT_DIR = "/home/z/my-project/download/deep_learning_project_ismail"
+PROJECT_DIR = "./"
 DATA_DIR = os.path.join(PROJECT_DIR, "data")
 RESULTS_DIR = os.path.join(PROJECT_DIR, "results")
 PLOTS_DIR = os.path.join(RESULTS_DIR, "plots")
