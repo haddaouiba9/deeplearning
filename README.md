@@ -1,10 +1,3 @@
-# Projet Deep Learning — Ismail Haddaoui
-
-**Réalisé par :** Ismail HADDAOUI
-**Encadré par :** Mme. Zineb HDILA
-**Groupe :** 4IAD G3
-**Année :** 2024-2025
-
 ## 🎯 Description
 
 Guide de référence pour l'entraînement de 6 architectures de Deep Learning :
@@ -102,7 +95,4 @@ python -c "from models.hybrid_model import run_hybrid_experiment; run_hybrid_exp
 - **matplotlib + seaborn** (visualisation)
 - **pandas + numpy** (manipulation de données)
 
-## 📝 Auteur
 
-- **Ismail HADDAOUI** — 4IAD G3
-- **Encadré par :** Mme. Zineb HDILA
