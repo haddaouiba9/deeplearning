@@ -1,6 +1,4 @@
-"""
-Logger de métriques - Projet Deep Learning (Ismail Haddaoui)
-"""
+
 
 import os
 import json
